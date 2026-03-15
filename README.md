@@ -1,16 +1,122 @@
-# React + Vite
+# Nike Website Clone 👟
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **Nike landing page clone** built using **React + Vite + Tailwind CSS**.
+This project focuses on building a clean UI, responsive layout, and practicing modern frontend development tools.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## React Compiler
+🔗 https://vaibhavjangam001-sys.github.io/Nike-Clone/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📌 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Modern Nike inspired UI
+* Responsive layout
+* Clean component-based React structure
+* Fast build using Vite
+* Styled with Tailwind CSS
+* Deployed using GitHub Pages
+
+---
+
+## 🛠️ Tech Stack
+
+* **React**
+* **Vite**
+* **Tailwind CSS**
+* **Bootstrap**
+* **React Router**
+* **Styled Components**
+
+---
+
+## 📂 Project Structure
+
+```
+Nike-Clone
+│
+├── public
+│   └── images
+│
+├── src
+│   ├── components
+│   ├── assets
+│   └── App.jsx
+│
+├── index.html
+├── package.json
+└── vite.config.js
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository
+
+```
+git clone https://github.com/vaibhavjangam001-sys/Nike-Clone.git
+```
+
+Go to the project folder
+
+```
+cd Nike-Clone
+```
+
+Install dependencies
+
+```
+npm install
+```
+
+Run the development server
+
+```
+npm run dev
+```
+
+---
+
+## 📦 Build for Production
+
+```
+npm run build
+```
+
+---
+
+## 🌍 Deployment
+
+This project is deployed using **GitHub Pages**.
+
+```
+npm run deploy
+```
+
+---
+
+## 🎯 Purpose of This Project
+
+This project was created to:
+
+* Practice **React component structure**
+* Learn **modern frontend development**
+* Understand **deployment with GitHub Pages**
+* Build **portfolio-ready projects**
+
+---
+
+## 👨‍💻 Author
+
+**Vaibhav Jangam**
+
+GitHub:
+https://github.com/vaibhavjangam001-sys
+
+---
+
+⭐ If you like this project, consider giving it a star!
