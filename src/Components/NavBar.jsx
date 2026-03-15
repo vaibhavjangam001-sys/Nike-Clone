@@ -14,7 +14,7 @@ const NavBar = () => {
   return (
     <nav className="container">
       <div>
-        <img src="/images/brand_logo.png" alt="Logo" />
+        <img src="/Nike-Clone/images/brand_logo.png" alt="Logo" />
       </div>
 
       <div
